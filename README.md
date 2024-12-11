@@ -13,4 +13,5 @@ References:
 https://www.tensorflow.org/tutorials/video/video_classification
 https://arxiv.org/abs/1711.11248v3
 
+https://youtu.be/r5snUkeDi-w
 Peace out.
